@@ -1,0 +1,197 @@
+.abc{
+    color:white;
+}
+.img{
+    height:10vh;
+    width:100%;
+    
+}
+.box1{
+    height:20%;
+    margin-top: 30px;
+    
+
+}
+.image{
+    height:100%;
+    position:absolute;
+    left:30%;
+}
+.pop{
+   border-radius: 50%; 
+    position: absolute;
+    top:39%;
+    left:32%;
+    
+}
+.box{
+    height:30vh;
+    
+    
+}
+.ab{
+    font-size: 12.5px;
+    position: absolute;
+    top:20%;
+    left:40%;
+}
+.bc{
+    font-size: 12.5px;
+    position: absolute;
+    top:37%;
+    left:35%;
+
+}
+.cd{
+    font-size:12.5px;
+    position:absolute ;
+    top:54%;
+    left:28%;
+
+}
+.de{
+    font-size:12.5px;
+    position: absolute;
+    top:54%;
+    left:50%;
+
+}
+.ef{
+    font-size:13px;
+    position: absolute;
+    top:70%;
+    left:25%;
+
+}
+.fg{
+    font-size:13px;
+    position: absolute;
+    top:70%;
+    left:52%;
+
+}
+.size{
+    height:20vh;
+}
+.cmp{
+    position: absolute;
+    left:30%;
+}
+.wrk{
+    position: absolute;
+    top:30%;
+    left:36%;
+
+}
+.pst{
+    position:absolute;
+    top:49%;
+    left:38%;
+}
+.box2{
+    width:50%;
+    height:15%;
+    position: absolute;
+    top:16.5%;
+    left:20%;
+}
+.lke{
+    height:3vh;
+
+}
+.to{
+    border-radius: 15%;
+    position: absolute;
+    top:54%;
+    left:2%;
+    background-color: white;
+
+}
+.box3{
+    position: absolute;
+    top:35%;
+    left:20%;
+    height:23vh;
+
+}
+.jn{
+    position:absolute;
+    left:35%;
+    font-size:30px;
+}
+.com{
+position: absolute;
+top:35%;
+left:37%;
+height:23%;
+width:33%;
+}
+.mock{
+    font-size:132%;
+}
+.info{
+    position: absolute;
+    top:16.5%;
+    left:71%;
+    height:35%;
+}
+.ces{
+    position:absolute;
+left:22%
+}
+.sec{
+    position: absolute;
+    top:11%;
+    left:28%;
+}
+.tot{
+    position: absolute;
+    top:45%;
+    left:39%;
+    font-size:20px
+}
+.tut{
+    position: absolute;
+    top:58%;
+    left:13%;
+    
+}
+.tet{
+    position: absolute;
+    top:70%;
+    left:35%;
+}
+.box4{
+    height:13%;
+    position:absolute;
+    top:55%;
+    left:71%;
+}
+.buy{
+    position: absolute;
+    left:39%;
+    top:35%;
+}
+.box5{
+    height:13%;
+    position: absolute;
+    top:71%;
+    left:71%;
+}
+.tysm{
+    position: absolute;
+    top:-10%;
+    left:22.5%;
+}
+.box6{
+    position: absolute;
+    top:87%;
+    left:71%;
+    height:12%;
+}
+.yupp{
+    position: absolute;
+    top:35%;
+    left:38%;
+
+}
